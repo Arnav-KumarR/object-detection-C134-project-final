@@ -1,0 +1,21 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    font-size: 30px;
+    margin-top: 0px;
+}
+
+canvas{
+    border-radius: 10px;
+    box-shadow: 7px 7px 7px grey;
+}
+
+#note{
+    font-size: 18px;
+    color: yellowgreen;
+    background-color: blueviolet;
+}
